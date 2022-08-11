@@ -1,2 +1,3 @@
 # Weather-forecast
-![image](https://user-images.githubusercontent.com/64627678/184161143-83e3d087-1a5a-48dd-8658-2748c4cea391.png)
+![image](https://user-images.githubusercontent.com/64627678/184161556-02780134-3c2a-4d13-996f-49e83e455fe3.png)
+
